@@ -1,15 +1,9 @@
 print("Student Study Tracker")
 
-name=input("Enter your
-name:")
-subject=input("what
-subject did you study?")
-hours=float(input("HOW 
-many hours did you study?
-"))
-
-print("\n---study
-summary---")
+name=input("Enter your name:")
+subject=input("what subject did you study?")
+hours=float(input("HOW many hours did you study?"))
+print("\n---studysummary---")
 print("Student:",name)
 print("Subject:",
 subject)
