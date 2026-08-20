@@ -1,5 +1,4 @@
-print("Student Study
-Tracker")
+print("Student Study Tracker")
 
 name=input("Enter your
 name:")
